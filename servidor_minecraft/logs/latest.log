@@ -1,0 +1,51 @@
+[00:43:01] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.2
+[00:43:01] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[00:43:01] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.11
+[00:43:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/mundo12/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:43:07] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[00:43:07] [main/INFO]: No existing world data, creating new world
+[00:43:08] [main/INFO]: Loaded 1470 recipes
+[00:43:08] [main/INFO]: Loaded 1584 advancements
+[00:43:08] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[00:43:08] [Server thread/INFO]: Loading properties
+[00:43:08] [Server thread/INFO]: Default game type: SURVIVAL
+[00:43:08] [Server thread/INFO]: Generating keypair
+[00:43:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:43:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:43:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:43:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:43:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:43:08] [Server thread/INFO]: Preparing level "world"
+[00:43:09] [Server thread/INFO]: Selecting global world spawn...
+[00:43:14] [Server thread/INFO]: Loading 0 persistent chunks...
+[00:43:14] [Server thread/INFO]: Preparing spawn area: 100%
+[00:43:14] [Server thread/INFO]: Time elapsed: 4949 ms
+[00:43:14] [Server thread/INFO]: Done (5.289s)! For help, type "help"
+[00:43:14] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[00:43:14] [Server thread/INFO]: home/codespace/.python/current/bin/python "/workspaces/mundo12/msx(1).py"<--[HERE]
+[00:44:14] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:45:06] [Server thread/INFO]: scarlett1212[/127.92.197.186:38077] logged in with entity id 33 at (4.5, 126.0, 8.5)
+[00:45:06] [Server thread/INFO]: scarlett1212 joined the game
+[00:46:47] [Server thread/INFO]: elpandiller[/127.133.176.54:38457] logged in with entity id 597 at (6.5, 126.0, 10.5)
+[00:46:47] [Server thread/INFO]: elpandiller joined the game
+[00:48:26] [Server thread/INFO]: elpandiller has made the advancement [Stone Age]
+[00:48:28] [Server thread/INFO]: scarlett1212 has made the advancement [Stone Age]
+[00:48:38] [Server thread/INFO]: elpandiller has made the advancement [Getting an Upgrade]
+[00:50:13] [Server thread/INFO]: scarlett1212 has made the advancement [Getting an Upgrade]
+[00:50:39] [Server thread/INFO]: elpandiller has made the advancement [Monster Hunter]
+[00:52:46] [Server thread/INFO]: elpandiller has made the advancement [Acquire Hardware]
+[00:53:47] [Server thread/INFO]: scarlett1212 has made the advancement [Acquire Hardware]
+[00:54:29] [Server thread/INFO]: elpandiller has made the advancement [Isn't It Iron Pick]
+[00:57:19] [Server thread/INFO]: elpandiller was shot by Skeleton
+[00:57:29] [Server thread/INFO]: scarlett1212 has made the advancement [Monster Hunter]
+[01:01:02] [Server thread/INFO]: scarlett1212 has made the advancement [Isn't It Iron Pick]
+[01:02:53] [Server thread/INFO]: elpandiller has made the advancement [Best Friends Forever]
+[01:03:27] [Server thread/INFO]: scarlett1212 has made the advancement [Best Friends Forever]
+[01:03:48] [Server thread/INFO]: scarlett1212 was slain by Zombie
+[01:06:27] [Server thread/INFO]: elpandiller was slain by Wolf
+[01:10:53] [Server thread/INFO]: elpandiller was slain by scarlett1212
+[01:11:58] [Server thread/INFO]: scarlett1212 hit the ground too hard
